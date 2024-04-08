@@ -1,26 +1,26 @@
 // MAIN =========================================================================================================================
 
-    public class Main {
+public class Main {
 
-        public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
         
-// ENUNCIADO ====================================================================================================================
+    // ENUNCIADO ================================================================================================================
 
-            // Crea un programa que muestre una calculadora funcional en pantalla, permitiendote sumar y restar.
+        // Crea un programa que muestre una calculadora funcional en pantalla, permitiéndote sumar y restar.
 
-            // Requisitos:
+        // Requisitos:
 
-                // Dos campos de texto para introducir los datos a operar.
-                // Botones para que el usuario seleccione si sumar o restar.
-                // Área de texto para imprimir el resultado de la operación.
+            // Dos campos de texto para introducir los datos a operar.
+            // Botones para que el usuario seleccione si sumar o restar.
+            // Área de texto para imprimir el resultado de la operación.
 
-// DECLARACIONES ================================================================================================================
+    // DECLARACIONES ============================================================================================================
 
-            // Sin Declaraciones
+        // Sin Declaraciones
         
- // COMIENZO DEL CÓDIGO =========================================================================================================
+    // COMIENZO DEL CÓDIGO ======================================================================================================
             
-            // Llamamos a la clase calculadora, donde tenemos todo el código que se va a correr.
-            new ClaseCalculadora();
+        // Llamamos a la clase calculadora, donde tenemos todo el código que se va a correr.
+        new ClaseCalculadora();
     }
 }
