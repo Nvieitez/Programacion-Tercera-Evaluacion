@@ -17,7 +17,7 @@
 
 // ENUNCIADO ----------------------------------------------------------------------------------------------------------------------------------------
 
-    // Crea un programa de simulación del videojuego "League of Legends" donde puedas administrar diferentes equipos y personajes.
+    // Crea un programa de simulación del videojuego "Elden Ring" donde puedas administrar diferentes clases y simular peleas.
 
 // DECLARACIONES ------------------------------------------------------------------------------------------------------------------------------------
 
